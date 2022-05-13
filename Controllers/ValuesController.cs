@@ -18,7 +18,7 @@ namespace Devops_task.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "value";
+            return "hello";
         }
 
         // POST api/values
